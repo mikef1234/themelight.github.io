@@ -1,5 +1,5 @@
 $(document).ready(function() {
- 
+
 	var owl = $("#header-slider");
 
 	owl.owlCarousel({
@@ -11,7 +11,7 @@ $(document).ready(function() {
 	});
 
 	$("#Client_Logo").owlCarousel({
-		autoPlay : 5000,
+		autoPlay : 2000,
 	    items : 6,
 	    responsiveClass:true,
 	    responsive: {
@@ -137,7 +137,7 @@ $(document).ready(function() {
             scrollSpeed: 1200,
           });
       }())
- 
+
 
 
 });
