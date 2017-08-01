@@ -94,7 +94,7 @@ a:active {
 }
 .title {
   text-align: center;
-  padding-bottom: 70px;
+  padding-bottom: 25px;
 }
 .title h2 {
   color: #333;
@@ -420,7 +420,7 @@ header .navbar {
   border: 0;
   font-size: 15px;
   color: #474747;
-  margin: 0 20px;
+  margin: 10px auto;
   transition: 0.2s;
   text-transform: uppercase;
 }
@@ -451,9 +451,9 @@ header .navbar {
 #portfolio .block .recent-work-pic ul li .overlay {
   position: absolute;
       top: 13px;
-      left: 3em;
+      left: 1.5em;
       bottom: 13px;
-      right: 4em;
+      right: 1.5em;
       background: rgba(128, 202, 214, 0.85);
       transition: 0.3s;
       text-align: center;
