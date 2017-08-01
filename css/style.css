@@ -292,8 +292,8 @@ header .navbar {
 }
 #banner .scrolldown {
   position: absolute;
-  left: 53.5%;
-bottom: 22%;
+  left: 51%;
+bottom: 23%;
 }
 #banner .scrolldown .scroll {
   border-radius: 100px;
