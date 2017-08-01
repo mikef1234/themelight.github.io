@@ -242,7 +242,7 @@ header .navbar {
 #banner {
   background: url('../img/2.jpg');
   background-size: cover;
-  padding: 205px 0;
+  padding: 175px 0;
   position: relative;
 }
 #banner:before {
